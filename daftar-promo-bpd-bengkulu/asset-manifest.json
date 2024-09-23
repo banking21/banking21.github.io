@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/css/main.822a1d91.css",
+    "main.js": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/js/main.800e79ed.js",
+    "static/js/453.36e33fd2.chunk.js": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/js/453.36e33fd2.chunk.js",
+    "static/media/img2.jpg": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/media/img2.32c11b4a7b10a3d16aa4.jpg",
+    "static/media/logo-white.png": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/media/logo-white.0316fd1c0bf625ce283c.png",
+    "static/media/img1.png": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/media/img1.737d3394370b2e2f438f.png",
+    "static/media/logo.svg": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://banking21.github.io/daftar-promo-bpd-bengkulu/index.html",
+    "main.822a1d91.css.map": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/css/main.822a1d91.css.map",
+    "main.800e79ed.js.map": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/js/main.800e79ed.js.map",
+    "453.36e33fd2.chunk.js.map": "https://banking21.github.io/daftar-promo-bpd-bengkulu/static/js/453.36e33fd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822a1d91.css",
+    "static/js/main.800e79ed.js"
+  ]
+}
